@@ -8,6 +8,10 @@ class a{
         x=sc.nextInt();
         if (x>0) {
             System.out.println("number is Positive");
+            
+        }
+        else{
+            System.out.println("number is Negative");
         }
         
     }
